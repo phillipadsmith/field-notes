@@ -1,0 +1,3 @@
+% layout 'default';
+% title 'API Documentation';
+<h2><%= $msg %></h2>
